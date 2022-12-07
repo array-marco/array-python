@@ -1,0 +1,51 @@
+#Compute equation
+
+# n= int (input())
+# p = n+(n*11)+(n*111)
+# print(p)
+
+
+
+#Reversed name
+
+# first_name = str(input())
+# second_name = str(input())
+# print(second_name+" "+first_name)
+
+
+#Remainder
+
+# x= int (input())
+# y= int (input())
+# print (x%y)
+
+# x= int (input())
+# y= int (input())
+# print (x//y)
+
+
+
+#Switch variables
+
+# x= int (input())
+# y= int (input())
+
+# a=x
+# b=y
+
+# x=b
+# y=a
+# print ("x=",x, " y=",y)
+
+
+
+
+#Convert to seconds         ezay 25lih ya5od 3 input gnb b3d ??
+
+# H,M,S = int (input()),int(input()),int(input())
+
+# h=H*60*60
+# m=M*60
+# sum = h+m+S
+
+# print (sum)
